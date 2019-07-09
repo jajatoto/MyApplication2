@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private Random random;
 
 
+
     private int targetCount;
     private int count = 0;
 
